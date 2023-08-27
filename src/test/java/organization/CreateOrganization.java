@@ -59,7 +59,8 @@ public class CreateOrganization {
 	act.moveToElement(ele).click().perform();
 	driver.findElement(By.linkText("Sign Out")).click();
 	
-	
+	//thank you 
+	//succesffully working
 	}
 
 }
